@@ -1,0 +1,5 @@
+brainflow>=5.12
+numpy
+matplotlib
+pyserial
+pytest

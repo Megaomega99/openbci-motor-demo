@@ -1,0 +1,12 @@
+name: bci
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - pyserial
+  - pytest
+  - pip
+  - pip:
+      - brainflow>=5.12
